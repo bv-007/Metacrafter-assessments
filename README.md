@@ -11,6 +11,10 @@ REQUIREMENTS
 
 5. Two functions are created:
     . mint function: in this function we transact tokens and increase value of total supply and balances
-    . burn function: in this function we deduct tokens but not more than that we have. 
+    . burn function: in this function we deduct tokens but not more than that we have.
+
+
+   LICENSE
+   This project is licensed under the MIT License 
 
 # Metacrafter-assessments
